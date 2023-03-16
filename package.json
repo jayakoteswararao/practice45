@@ -1,7 +1,7 @@
 {
     "author":"jaya",
     "name":"resify",
-    "version":"0.0.6",
+    "version":"0.1.8",
     "description":"Censors word out of text",
     "main":"repcen",
     "repository":{
