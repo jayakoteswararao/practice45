@@ -1,0 +1,21 @@
+{
+    "author":"jaya",
+    "name":"resify",
+    "version":"0.0.6",
+    "description":"Censors word out of text",
+    "main":"repcen",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/jayakoteswararao/practice45"
+    },
+    "keywords":[
+        "custom",
+        "censor",
+        "words"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+
+}
